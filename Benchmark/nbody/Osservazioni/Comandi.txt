@@ -1,0 +1,2 @@
+cd C:\Users\ogiam\Desktop\Impianti di Elaborazione\nbody
+bash ./launch_nbody.sh -r 5 -n 50000
